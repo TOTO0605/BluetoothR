@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BluetoothController</string>
+    <string name="szinkron">Synch contact</string>
+    <string name="mentes">Save</string>
+    <string name="elore">Move along:</string>
+    <string name="hatra">Move back:</string>
+    <string name="balra">Move left:</string>
+    <string name="jobbra">Move right:</string>
+    <string name="eszkozok">Devices</string>
+    <string name="kapcsol">Connect</string>
+    <string name="bont">DisC</string>
+    <string name="eszkoz">Device: </string>
+    <string name="allapot">Status</string>
+    <string name="nincs">Not connected</string>
+    <string name="fojamatban">Connecting...</string>
+    <string name="aktiv">Connected</string>
+    <string name="lathatosag">Make discoverable</string>
+    <string name="kereses">Scan for devices</string>
+    <string name="parositott_eszkozok">Paried devices</string>
+    <string name="mozdulatsorMentes">Movement list save</string>
+    <string name="hozzaAd">Add</string>
+    <string name="betoltve">"Settings loaded"</string>
+    <string name="megszakadt">"The contact to breaked"</string>
+    <string name="alapbeallitas">"Default settings loaded."</string>
+    <string name="alapbeallitasHiba">"Default setting is a fail"</string>
+    <string name="mozdulatsorBe">"Movement list loaded"</string>
+    <string name="leall">"The application is finising"</string>
+    <string name="marVan">"Connection is in progress"</string>
+    <string name="nincsP">"Paried devices are not."</string>
+    <string name="nincsM">"Movement list are not. "</string>
+    <string name="frissitB">"Update settings"</string>
+    <string name="frissitBhiba">"Update setting is failed."</string>
+    <string name="frissitM">"Update movement list"</string>
+    <string name="frissitMhiba">"Update failed."</string>
+    <string name="bluetoothNincs">The bluetooth was not enabled!"</string>
+    <string name="tiltottK">"Characters allowed: numbers,E,H,B,J and ';'"</string>
+    <string name="nincsKitoltve">"Don't fill every"</string>
+    <string name="beallitasM">"Settings saved"</string>
+    <string name="beallitasMhiba">"Settings save's error."</string>
+    <string name="mozdulatsorM">"Movement list saved."</string>
+    <string name="mozdulatsorMhiba">"Movement list save's error."</string>
+    <string name="parosiBe">"Paried devices loaded"</string>
+    <string name="kezdes">"Start"</string>
+    <string name="befejezes">"Finish"</string>
+    <string name="talal">"Found"</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>

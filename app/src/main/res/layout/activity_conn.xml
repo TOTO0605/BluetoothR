@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.toto.bluetoothc.ActivityConn"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:foregroundGravity="center_horizontal"
+    android:baselineAligned="true"
+    android:background="@drawable/hatter">
+
+    <Button
+        android:id="@+id/lathatosag"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:text="@string/lathatosag"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/conn"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="5dp" />
+    <Button
+        android:id="@+id/blueKeres"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:text="@string/kereses"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/conn"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_marginBottom="8dp"
+        android:textStyle="bold"
+        android:textSize="15dp" />
+
+    <ListView
+        android:id="@+id/parosiBlue"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@drawable/lista"
+        android:textFilterEnabled="false">
+
+    </ListView>
+
+    <ListView
+        android:id="@+id/lathatoBlue"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/lista">
+
+    </ListView>
+
+</LinearLayout>

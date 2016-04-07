@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothVezérlő</string>
+    <string name="szinkron">Szinkron kapcsolat</string>
+    <string name="mentes">Mentés</string>
+    <string name="elore">Lépésszám előre:</string>
+    <string name="hatra">Lépésszám hátra:</string>
+    <string name="balra">Lépésszám balra:</string>
+    <string name="jobbra">Lépésszám jobbra:</string>
+    <string name="eszkozok">Eszközök</string>
+    <string name="kapcsol">Kapcsol</string>
+    <string name="bont">Bont</string>
+    <string name="eszkoz">Eszköz: </string>
+    <string name="allapot">Állapot</string>
+    <string name="nincs">Nincs kapcsolat</string>
+    <string name="fojamatban">Kapcsolódás...</string>
+    <string name="aktiv">Aktív</string>
+    <string name="lathatosag">Láthatóság beállítása</string>
+    <string name="kereses">Eszközök keresése</string>
+    <string name="parositott_eszkozok">Párosított eszközök</string>
+    <string name="mozdulatsorMentes">Mozdulatsor mentése</string>
+    <string name="hozzaAd">Hozzáad</string>
+    <string name="betoltve">"Beállítások betöltve"</string>
+    <string name="megszakadt">"A kapcsolat megszakadt"</string>
+    <string name="alapbeallitas">"Alapbeállítás megtörtént"</string>
+    <string name="alapbeallitasHiba">"Az alapbeállítás nem sikerült"</string>
+    <string name="mozdulatsorBe">"Mozdulatsor beolvasva"</string>
+    <string name="leall">"Az alkalmazás leáll"</string>
+    <string name="marVan">"Van folyamatban kapcsolat"</string>
+    <string name="nincsP">"Nincs párosított eszköz"</string>
+    <string name="nincsM">""Nincs mozdulatsor mentve""</string>
+    <string name="frissitB">"Beállítások frissítve"</string>
+    <string name="frissitBhiba">"Beállítások frissítése nem sikerült"</string>
+    <string name="frissitM">"Mozdulatsor frissítve"</string>
+    <string name="frissitMhiba">"Mozdulatsor frissítése nem sikerült"</string>
+    <string name="bluetoothNincs">"A bluetooth nincs bekapcsolva!"</string>
+    <string name="tiltottK">"Engedélyezett karakterek: számok, E,H,B,J és ';'"</string>
+    <string name="nincsKitoltve">"Nincs kitöltve minden"</string>
+    <string name="beallitasM">"Beállítások mentve"</string>
+    <string name="beallitasMhiba">"A beállítások mentése nem sikerült!"</string>
+    <string name="mozdulatsorM">"Mozdulatsor mentve"</string>
+    <string name="mozdulatsorMhiba">"Mozdulatsor mentése nem siekrült."</string>
+    <string name="parosiBe">"Parosított eszközök betöltve"</string>
+    <string name="kezdes">"Kezdés"</string>
+    <string name="befejezes">"Befejezés"</string>
+    <string name="talal">"Találat"</string>
+
+    <string name="action_settings">Beállítások</string>
+
+</resources>
